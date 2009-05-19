@@ -1,0 +1,7 @@
+eject
+killall xine
+killall xine
+eject -t
+killall mplayer
+killall mplayer
+killall mythfrontend
