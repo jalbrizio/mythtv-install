@@ -1,0 +1,14 @@
+[freshrpms]
+name=FreshRPMs for Fedora Core $releasever - $basearch
+baseurl=http://ayo.freshrpms.net/fedora/linux/$releasever/$basearch/freshrpms
+enabled=1
+gpgcheck=1
+gpgkey=http://freshrpms.net/RPM-GPG-KEY-freshrpms
+
+[freshrpms-updates]
+name=FreshRPMs for Fedora Core $releasever - $basearch - updates
+baseurl=http://ayo.freshrpms.net/fedora/linux/$releasever/$basearch/updates
+enabled=0
+gpgcheck=0
+gpgkey=http://freshrpms.net/RPM-GPG-KEY-freshrpms
+

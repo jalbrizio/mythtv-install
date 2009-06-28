@@ -1,0 +1,6 @@
+/usr/local/bin/irsend send_once gray 1;
+/usr/bin/v4lctl volume mute off
+# Disable dynamic power management (screen blanking)
+/usr/bin/xset -dpms
+# Disable screen saver
+/usr/bin/xset s off
