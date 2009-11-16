@@ -1,0 +1,190 @@
+Table	Op	Msg_type	Msg_text
+mythconverg.archiveitems	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.callsignnetworkmap	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.capturecard	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.cardinput	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.channel	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.codecparams	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.credits	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.customexample	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.diseqc_config	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.diseqc_tree	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.displayprofilegroups	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.displayprofiles	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.dtv_multiplex	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.dtv_privatetypes	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.dvdbookmark	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.dvdinput	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.dvdtranscode	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.eit_cache	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.favorites	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.filemarkup	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.gallerymetadata	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.gamemetadata	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.gameplayers	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.housekeeping	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.inputgroup	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.inuseprograms	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.jobqueue	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.jumppoints	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.keybindings	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.keyword	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.movies_movies	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.movies_showtimes	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.movies_theaters	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.music_albumart	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.music_albums	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.music_artists	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.music_directories	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.music_genres	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.music_playlists	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.music_smartplaylist_categories	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.music_smartplaylist_items	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.music_smartplaylists	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.music_songs	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.music_stats	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.musicmetadata	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.musicplaylist	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.mythlog	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.mythweb_sessions	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.netflix	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.networkiconmap	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.oldfind	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.oldprogram	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.oldrecorded	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.people	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.phonecallhistory	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.phonedirectory	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.pidcache	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.playgroup	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.powerpriority	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.profilegroups	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.program	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.programgenres	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.programrating	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.recgrouppassword	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.record	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.recorded	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.recordedcredits	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.recordedfile	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.recordedmarkup	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.recordedprogram	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.recordedrating	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.recordedseek	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.recordingprofiles	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.recordmatch	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.romdb	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.schemalock	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.settings	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.storagegroup	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.streams	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.tvchain	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.upnpmedia	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.videocast	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.videocategory	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.videocountry	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.videogenre	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.videometadata	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.videometadatacast	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.videometadatacountry	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.videometadatagenre	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.videosource	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.videotypes	optimize	status	Table is already up to date
+Table	Op	Msg_type	Msg_text
+mythconverg.weatherdatalayout	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.weatherscreens	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.weathersourcesettings	optimize	status	OK
+Table	Op	Msg_type	Msg_text
+mythconverg.websites	optimize	status	Table is already up to date

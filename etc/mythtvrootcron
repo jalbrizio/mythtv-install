@@ -1,0 +1,5 @@
+2 16 * * * /etc/webmin/cron/tempdelete.pl
+#0 0 * * * /usr/bin/mythfilldatabase
+0 12 * * * /usr/bin/mythfilldatabase
+0 1 * * *  /usr/bin/mysql -uroot -pmysqlrootpw mythconverg < /usr/lib/mythoptimize.sql > /var/log/mythoptimize.log
+0 1 * * *  date > /var/log/mythdate.log
