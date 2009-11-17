@@ -1,9 +1,0 @@
-#! /bin/bash
-
-# Disable dynamic power management (screen blanking)
-/usr/bin/xset -dpms
-# Disable screen saver
-/usr/bin/xset s off
-/usr/local/bin/ivman -s;
-/usr/bin/mythfrontend;
-irsend send_once gray 1
