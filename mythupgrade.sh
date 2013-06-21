@@ -1,5 +1,9 @@
 #!/bin/bash
 #This script is to install or upgrade mythtv on a fedora server
+
+# This was tested on fedora 17 and it still works.
+# I've received no recomendations on changes so I have no reason to change it since its working.
+
 # mythupgrage v3.2
 #
 #here are the files affected
